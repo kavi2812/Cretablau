@@ -1,0 +1,6 @@
+{
+  "name": "Creta E · Key Largo 980 Launcher",
+  "description": "Automotive infotainment car launcher tailored for Hyundai Creta E and the Blaupunkt Key Largo 980 9-inch (1024x600) IPS display with live Google Maps, persistent YouTube & Spotify playback, and an interactive map screensaver.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
